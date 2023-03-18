@@ -1,0 +1,2 @@
+file 'file:C:/Users/avina/ManimStudy/DayOne/media/videos/ManimTest/720p30/partial_movie_files/Pith/00000.mp4'
+file 'file:C:/Users/avina/ManimStudy/DayOne/media/videos/ManimTest/720p30/partial_movie_files/Pith/00001.mp4'
